@@ -45,7 +45,7 @@ START: Default CSS
   --ed-color-common-black: #000000;
   --ed-color-heading-primary: #162726;
   --ed-color-text-body: #6C706F;
-  --ed-color-theme-primary: #07A698;
+  --ed-color-theme-primary: #0165a1;
   --ed-color-grey-1: #F2F4F7;
   --ed-color-grey-2: #F2F4F7;
   --ed-color-bg-1: #0E121D;
@@ -17958,7 +17958,7 @@ START: Page Header CSS
 }
 
 .hero-15 {
-  background-color: #122927;
+  background-color: #0165a1;
   padding: 285px 0 170px 0;
   position: relative;
   z-index: 1;
@@ -20387,7 +20387,7 @@ START: Home 18 CSS
 }
 
 .team-item-18 {
-  background-color: #122927;
+  background-color: #fff112;
   text-align: center;
   padding: 30px;
   border-radius: 20px;
