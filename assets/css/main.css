@@ -1,8 +1,8 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: EdCare - Online Education LMS HTML5 Template
+    Template Name: Unicorn Global Scholars 
     Author: RRDevs
-    Description: EdCare - Online Education LMS HTML5 Template
+    Description: Unicorn Global Scholars 
     Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ START: Default CSS
   --ed-fs-h6: 14px;
   --ed-color-common-white: #ffffff;
   --ed-color-common-black: #000000;
-  --ed-color-heading-primary: #162726;
+  --ed-color-heading-primary: #363435 ;
   --ed-color-text-body: #6C706F;
   --ed-color-theme-primary: #0165a1;
   --ed-color-grey-1: #F2F4F7;
@@ -2131,7 +2131,7 @@ ul {
     Buttons CSS
 */
 .ed-primary-btn {
-  background-color: var(--ed-color-theme-primary);
+  background-color: #fcb92d;
   font-family: var(--ed-ff-heading);
   color: var(--ed-color-common-white);
   display: inline-flex;
@@ -5690,7 +5690,7 @@ START: Promo CSS
 }
 
 .promo-section-3 {
-  background-color: #162726;
+  background-color: #363435 ;
 }
 
 .promo-item-3 {
@@ -5982,7 +5982,7 @@ START: Course CSS
   border: 1px solid var(--ed-color-theme-primary);
 }
 .course-item.dark-item.dark-item-2 {
-  background: #162726;
+  background: #363435 ;
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: 0px 7px 48px rgba(0, 0, 0, 0.15);
 }
@@ -6519,7 +6519,7 @@ START: Course CSS
   list-style: none;
 }
 .course-sidebar .course-sidebar-list li {
-  color: #162726;
+  color: #363435 ;
   font-size: 16px;
   font-weight: 500;
 }
@@ -12460,7 +12460,7 @@ START: Home 6 CSS
   .footer-6 {
     padding-top: 70px;
     margin-top: 0px;
-    background-color: #162726;
+    background-color: #363435 ;
   }
 }
 .footer-6 .bg-img {
@@ -15535,7 +15535,7 @@ START: Home 11 CSS
   }
 }
 .offer-nav .nav-item .nav-link .offer-tab-btn:before {
-  background: linear-gradient(90deg, #07A698 0%, #162726 100%);
+  background: linear-gradient(90deg, #07A698 0%, #363435  100%);
   content: "";
   width: 100%;
   height: 100%;
@@ -15617,7 +15617,7 @@ START: Home 11 CSS
 }
 
 .testi-11 {
-  background-color: #162726;
+  background-color: #363435 ;
 }
 .testi-11 .shape {
   top: auto;
@@ -16371,7 +16371,7 @@ START: Home 13 CSS
   bottom: 0;
   right: 0;
   z-index: -1;
-  background: #162726;
+  background: #363435 ;
   mix-blend-mode: soft-light;
   border-radius: 0px 0px 0px 450px;
   transform: matrix(1, 0, 0, -1, 0, 0);
@@ -16639,7 +16639,7 @@ START: Home 13 CSS
   transition: transform 1s ease-in-out;
 }
 .service-item .service-thumb .overlay {
-  background: linear-gradient(180deg, rgba(22, 39, 38, 0) 15.93%, #162726 100%);
+  background: linear-gradient(180deg, rgba(22, 39, 38, 0) 15.93%, #363435  100%);
   border-radius: 15px;
   width: 100%;
   height: 100%;
@@ -18808,7 +18808,7 @@ START: Home 16 CSS
 }
 
 .footer-16 {
-  background-color: #162726;
+  background-color: #363435 ;
 }
 .footer-16 .footer-top {
   background-color: transparent;
@@ -19736,7 +19736,7 @@ START: Home 17 CSS
   color: var(--ed-color-theme-primary);
 }
 .footer-17 .footer-inner {
-  background: #162726;
+  background: #363435 ;
   border: 1px solid #29403F;
   border-radius: 15px;
   display: flex;
@@ -20387,7 +20387,7 @@ START: Home 18 CSS
 }
 
 .team-item-18 {
-  background-color: #fff112;
+  background-color: #363435 ;
   text-align: center;
   padding: 30px;
   border-radius: 20px;
@@ -21743,7 +21743,7 @@ START: Home 20 CSS
   border-radius: 15px;
 }
 .team-item-20 .team-thumb:before {
-  background: linear-gradient(180deg, rgba(22, 39, 38, 0) 20.97%, #162726 100%);
+  background: linear-gradient(180deg, rgba(22, 39, 38, 0) 20.97%, #363435  100%);
   content: "";
   width: 100%;
   height: 100%;
@@ -21797,7 +21797,7 @@ START: Home 20 CSS
 }
 
 .pricing-section-20 {
-  background-color: #162726;
+  background-color: #363435 ;
   position: relative;
   z-index: 1;
 }
@@ -21863,10 +21863,10 @@ START: Home 20 CSS
   color: var(--ed-color-common-white);
 }
 .pricing-item-20 .pricing-item-bottom .pricing-btn .ed-primary-btn:before {
-  background-color: #162726;
+  background-color: #363435 ;
 }
 .pricing-item-20 .pricing-item-bottom .pricing-btn .ed-primary-btn:hover {
-  border-color: #162726;
+  border-color: #363435 ;
   color: var(--ed-color-theme-primary);
 }
 .pricing-item-20.active {
